@@ -201,7 +201,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Projects
+      text: Wordpress Projects
       color: text-dark
       styles:
         self:
