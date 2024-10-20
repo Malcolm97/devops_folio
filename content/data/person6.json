@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "Fullstac",
-    "role": "Co-founder & CEO",
+    "role": "HTTP",
     "image": {
         "url": "/images/avatar6.svg",
         "altText": "Harrison Tally",
