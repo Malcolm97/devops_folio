@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: NLR
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
