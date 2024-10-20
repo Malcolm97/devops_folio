@@ -1,5 +1,5 @@
 ---
-title: NLR Meth Testing
+title: IECL Meth Testing
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
