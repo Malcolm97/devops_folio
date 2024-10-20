@@ -89,7 +89,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: FLEMAIL
+      - title: FLEAMAIL
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
