@@ -114,6 +114,7 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Test
 isFeatured: true
 isDraft: false
 seo:
